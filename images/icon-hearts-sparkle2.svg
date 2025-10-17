@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 511.3 527.2">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #005aff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_4">
+    <g>
+      <g>
+        <rect class="st0" x="339.3" y="387.2" width="20" height="40"/>
+        <rect class="st0" x="319.3" y="427.2" width="20" height="20"/>
+        <rect class="st0" x="359.3" y="427.2" width="20" height="20"/>
+        <rect class="st0" x="279.3" y="447.2" width="40" height="20"/>
+        <rect class="st0" x="379.3" y="447.2" width="40" height="20"/>
+        <rect class="st0" x="319.3" y="467.2" width="20" height="20"/>
+        <rect class="st0" x="359.3" y="467.2" width="20" height="20"/>
+        <rect class="st0" x="339.3" y="487.2" width="20" height="40"/>
+      </g>
+      <g>
+        <rect class="st0" x="60" y="335.2" width="20" height="40"/>
+        <rect class="st0" x="40" y="375.2" width="20" height="20"/>
+        <rect class="st0" x="80" y="375.2" width="20" height="20"/>
+        <rect class="st0" y="395.2" width="40" height="20"/>
+        <rect class="st0" x="100" y="395.2" width="40" height="20"/>
+        <rect class="st0" x="40" y="415.2" width="20" height="20"/>
+        <rect class="st0" x="80" y="415.2" width="20" height="20"/>
+        <rect class="st0" x="60" y="435.2" width="20" height="40"/>
+      </g>
+      <g id="Heart">
+        <rect class="st0" x="119.5" y="155.7" width="60" height="20"/>
+        <rect class="st0" x="239.5" y="155.7" width="60" height="20"/>
+        <rect class="st0" x="99.5" y="175.7" width="20" height="20"/>
+        <rect class="st0" x="179.5" y="175.7" width="20" height="20"/>
+        <rect class="st0" x="219.5" y="175.7" width="20" height="20"/>
+        <rect class="st0" x="299.5" y="175.7" width="20" height="20"/>
+        <rect class="st0" x="79.5" y="195.7" width="20" height="100"/>
+        <rect class="st0" x="199.5" y="195.7" width="20" height="20"/>
+        <rect class="st0" x="319.5" y="195.7" width="20" height="100"/>
+        <polygon class="st0" points="159.5 195.7 159.5 235.7 119.5 235.7 119.5 215.7 139.5 215.7 139.5 195.7 159.5 195.7"/>
+        <rect class="st0" x="99.5" y="295.7" width="20" height="20"/>
+        <rect class="st0" x="299.5" y="295.7" width="20" height="20"/>
+        <rect class="st0" x="119.5" y="315.7" width="20" height="20"/>
+        <rect class="st0" x="279.5" y="315.7" width="20" height="20"/>
+        <rect class="st0" x="139.5" y="335.7" width="20" height="20"/>
+        <rect class="st0" x="259.5" y="335.7" width="20" height="20"/>
+        <rect class="st0" x="159.5" y="355.7" width="20" height="20"/>
+        <rect class="st0" x="239.5" y="355.7" width="20" height="20"/>
+        <rect class="st0" x="179.5" y="375.7" width="20" height="20"/>
+        <rect class="st0" x="199.5" y="395.7" width="20" height="20"/>
+        <rect class="st0" x="219.5" y="375.7" width="20" height="20"/>
+      </g>
+      <g>
+        <rect class="st0" x="291.3" y="100" width="60" height="20"/>
+        <rect class="st0" x="351.3" y="120" width="20" height="20"/>
+        <rect class="st0" x="351.3" y="80" width="20" height="20"/>
+        <rect class="st0" x="371.3" y="140" width="20" height="20"/>
+        <rect class="st0" x="371.3" y="60" width="20" height="20"/>
+        <rect class="st0" x="391.3" y="160" width="20" height="60"/>
+        <rect class="st0" x="391.3" width="20" height="60"/>
+        <rect class="st0" x="411.3" y="140" width="20" height="20"/>
+        <rect class="st0" x="411.3" y="60" width="20" height="20"/>
+        <rect class="st0" x="431.3" y="120" width="20" height="20"/>
+        <rect class="st0" x="431.3" y="80" width="20" height="20"/>
+        <rect class="st0" x="451.3" y="100" width="60" height="20"/>
+      </g>
+    </g>
+  </g>
+</svg>
