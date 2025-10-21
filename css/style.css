@@ -95,7 +95,7 @@
 :root {
 	--background-color: #EBF1F3;
 	--text-color: #005AFF;
-	--desk-font-XL: min(4.4vw, 88px);
+	--desk-font-XL: min(4.1vw, 88px);
 	--desk-font-L: min(1.4vw, 28px);
 	--desk-font-M: min(1.1vw, 22px);
 	--tab-font-XL: 4.4vw;
@@ -388,7 +388,7 @@ button {
 	}
 
 	#menu {
-		width: min(76%, 700px);
+		width: 70%;
 		justify-self: center;
 	}
 
