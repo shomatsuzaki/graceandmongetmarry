@@ -150,7 +150,7 @@ a {
 
 #login-content {
 	display: grid;
-	width: 80%;
+	width: 90%;
 	grid-template: repeat(4, 1fr) / 1fr;
 	justify-items: center;
 	align-items: center;
@@ -648,11 +648,11 @@ button {
 	}
 
 	input {
-		padding: 2vw;
+		padding: 2vw 0vw;
 	}
 
 	button {
-		padding: 2vw 4vw;
+		padding: 2vw 3vw;
 	}
 
 	#top-nav {
