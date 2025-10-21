@@ -102,8 +102,8 @@
 	--tab-font-L: 1.9vw;
 	--tab-font-M: 1.4vw;
 	--mob-font-XL: 8vw;
-	--mob-font-L: 3.2vw;
-	--mob-font-M: 2.5vw;
+	--mob-font-L: 4.5vw;
+	--mob-font-M: 3vw;
 }
 
 html {
@@ -154,6 +154,7 @@ a {
 	grid-template: repeat(4, 1fr) / 1fr;
 	justify-items: center;
 	align-items: center;
+	margin-bottom: 5vw;
 }
 
 #password-form {
@@ -165,7 +166,6 @@ input {
 	border-radius: 100px;
 	background-color: transparent;
 	color: var(--background-color);
-	padding: 1vw 4vw;
 	text-align: center;
 }
 
@@ -174,7 +174,6 @@ button {
 	border-radius: 100px;
 	background-color: var(--background-color);
 	color: var(--text-color);
-	padding: 1vw 4vw;
 	text-align: center;
 	cursor: pointer;
 }
@@ -347,6 +346,14 @@ button {
 		font-size: var(--desk-font-L);
 	}
 
+	input {
+		padding: 1.5vw 4vw;
+	}
+
+	button {
+		padding: 1.5vw 4vw;
+	}
+
 	#top-nav {
 		width: 5vw;
 		height: 5vw;
@@ -486,6 +493,14 @@ button {
 	input, button, #msg {
 		margin-top: 4vw;
 		font-size: var(--tab-font-L);
+	}
+
+	input {
+		padding: 2vw 2vw;
+	}
+
+	button {
+		padding: 2vw 4vw;
 	}
 
 	#top-nav {
@@ -632,15 +647,23 @@ button {
 		font-size: var(--mob-font-L);
 	}
 
+	input {
+		padding: 2vw 2vw;
+	}
+
+	button {
+		padding: 2vw 4vw;
+	}
+
 	#top-nav {
-		width: 10vw;
-		height: 10vw;
-		top: 3vw;
-		right: 3vw;
+		width: 17vw;
+		height: 17vw;
+		top: 6vw;
+		right: 6vw;
 	}
 
 	.section {
-		padding-bottom: 14vw;
+		padding-bottom: 10vw;
 	}
 
 	.label {
@@ -653,8 +676,8 @@ button {
 	}
 
 	#hero {
-		padding-top: 30vw;
-		grid-template: repeat(2, 1fr) / 1fr;
+		padding-top: 35vw;
+		grid-template: 1fr 0.9fr / 1fr;
 		padding-bottom: 0px;
 	}
 
@@ -692,7 +715,7 @@ button {
 		font-size: var(--mob-font-L);
 		display: grid;
 		grid-template: repeat(3, 1fr) / repeat(2, 1fr);
-		margin-top: -50px;
+		margin-top: 20px;
 	}
 
 	#menu-list img {
@@ -701,18 +724,18 @@ button {
 	}
 
 	.menu-item {
-		width: 24vw;
+		width: 30vw;
 		padding: 1.7vw;
 		margin: 4vw;
 	}
 
 	#schedule-content, #rsvp-content {
 		grid-template: 1fr / 40% 60%;
-		width: 100%;
+		width: 90%;
 	}
 
 	#schedule-copy, #rsvp-copy {
-		width: 70%;
+		width: 90%;
 	}
 
 	#schedule-copy span {
@@ -728,7 +751,7 @@ button {
 	}
 
 	#travel-content, #to-do-content {
-		grid-template: 1fr 1.7fr / 1fr;
+		grid-template: 1fr 1.4fr / 1fr;
 		align-items: start;
 		width: 65%;
 	}
@@ -757,7 +780,7 @@ button {
 	}
 	
 	#faq-content {
-		grid-template: 1fr 0.8fr / 1fr;
+		grid-template: 1fr 0.6fr / 1fr;
 		width: 70%;
 	}
 
@@ -767,6 +790,6 @@ button {
 	}
 
 	#footer-sparkle {
-		padding-bottom: 5vw;
+		padding-bottom: 15vw;
 	}
 }
