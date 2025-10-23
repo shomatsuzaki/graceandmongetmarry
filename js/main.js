@@ -53,7 +53,7 @@ window.addEventListener('scroll', function() {
 		if (vw > 600) { // for desktop and tablet
 			photoSchedule1.style.transform = 'translate(0vw, 0vw) rotate(6deg)';
 		} else { // for mobile
-			photoSchedule1.style.transform = 'translate(-30px, -20px) rotate(6deg)';
+			photoSchedule1.style.transform = 'translate(-40px, -20px) rotate(6deg)';
 		}
 	}
 

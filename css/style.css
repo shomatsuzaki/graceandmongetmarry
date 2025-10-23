@@ -731,11 +731,11 @@ button {
 
 	#schedule-content, #rsvp-content {
 		grid-template: 1fr / 40% 60%;
-		width: 90%;
+		width: 94%;
 	}
 
 	#schedule-copy, #rsvp-copy {
-		width: 90%;
+		width: 95%;
 	}
 
 	#schedule-copy span {
