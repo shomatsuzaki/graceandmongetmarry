@@ -471,6 +471,11 @@ button {
 		grid-column: 1 / 2;
 	}
 
+	#rsvp-copy {
+		width: 70%;
+		font-size: var(--desk-font-L);
+	}
+
 	#footer-sparkle {
 		padding-bottom: 5vw;
 	}
@@ -581,6 +586,7 @@ button {
 
 	#rsvp-copy {
 		width: 75%;
+		font-size: var(--tab-font-L);
 	}
 
 	#schedule-copy span {
@@ -750,8 +756,14 @@ button {
 		height: 9vw;
 	}
 
-	#travel-content, #to-do-content {
+	#travel-content {
 		grid-template: 1fr 1.4fr / 1fr;
+		align-items: start;
+		width: 65%;
+	}
+
+	#to-do-content {
+		grid-template: 1fr 4.5fr / 1fr;
 		align-items: start;
 		width: 65%;
 	}
@@ -787,6 +799,10 @@ button {
 	#faq-content .polaroid {
 		grid-row: 2 / 3;
 		grid-column: 1 / 2;
+	}
+
+	#rsvp-copy {
+		font-size: var(--mob-font-L);
 	}
 
 	#footer-sparkle {

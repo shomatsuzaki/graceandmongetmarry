@@ -118,7 +118,7 @@ window.addEventListener('scroll', function() {
 		if (vw > 600) { // for desktop and tablet
 			photoRSVP1.style.transform = 'translate(0vw, 0vw) rotate(-6deg)';
 		} else { // for mobile
-			photoRSVP1.style.transform = 'translate(-10px, 0px) rotate(-6deg)';
+			photoRSVP1.style.transform = 'translate(0px, 0px) rotate(-6deg)';
 		}
 	}
 });
