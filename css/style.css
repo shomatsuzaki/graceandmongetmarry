@@ -757,7 +757,7 @@ button {
 	}
 
 	#travel-content {
-		grid-template: 1fr 1fr / 1fr;
+		grid-template: 1fr 1.3fr / 1fr;
 		align-items: start;
 		width: 65%;
 	}
